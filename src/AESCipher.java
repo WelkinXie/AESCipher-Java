@@ -1,4 +1,6 @@
-package com.welkinx;
+//
+//  https://github.com/WelkinXie/AESCipher-Java
+//
 
 import java.io.UnsupportedEncodingException;
 import java.security.InvalidAlgorithmParameterException;
